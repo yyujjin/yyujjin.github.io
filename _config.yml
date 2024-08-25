@@ -14,13 +14,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: setup_blog # the main title
+title: 개발자가 되고 싶어요 # the main title
 
-tagline: 블로그 첫 설치! # it will display as the sub-title
+tagline: 규잔이의 개발 일지 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  thank you elly
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  초보, 비전공자, 개발자, 백엔드, 풀스택, 프론트엔드, 코린이, 자바, 스프링부트
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -29,9 +28,6 @@ url: "https://yyujjin.github.io"
 github:
   username: yyujjin # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -39,8 +35,7 @@ social:
   email: 2aba1740@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/yyujjin # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -97,7 +92,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/141253669?s=96&v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
