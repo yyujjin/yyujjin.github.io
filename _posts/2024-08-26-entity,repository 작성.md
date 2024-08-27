@@ -101,6 +101,6 @@ public class TagController {
 ![image.png](/assets/img/github_logo%20복사본.png)
 
 ---
-![commit] (https://github.com/yyujjin/book-rating-backend/commit/047a130e6681a1288300e39aa79917b3cd953dd6)
+[commit](https://github.com/yyujjin/book-rating-backend/commit/047a130e6681a1288300e39aa79917b3cd953dd6)
 
-![commit] (https://github.com/yyujjin/book-rating-backend/commit/67628f6d571bc480a08fd853aa37b875a703074b)
+[commit](https://github.com/yyujjin/book-rating-backend/commit/67628f6d571bc480a08fd853aa37b875a703074b)
