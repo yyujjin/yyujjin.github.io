@@ -1,10 +1,11 @@
 ---
 categories:
-- Book_rating_project(with.elly)
+- 📚 Book_rating_project(with.elly)
 - 2024-08-22 ~ 2024-08-28
   
 tags:
 - JPA
+- Entity
 - Elly
 ---
 
