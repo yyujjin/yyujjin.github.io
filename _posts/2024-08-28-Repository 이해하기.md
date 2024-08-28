@@ -1,15 +1,15 @@
 ---
 categories:
 - 👩‍💻 Today I learn
+- JPA
   
 tags:
 - JPA
 - Repository
 
-### ✨ **Repository**
-
 ---
 
+### ✨ **Repository**
 - **Repository**는 데이터베이스와 상호작용하기 위한 인터페이스
 - `JpaRepository`, `CrudRepository` 등을 상속받아 사용할 수 있음
 - `JpaRepository`는 **기본적인 CRUD 작업을 위한 메서드를 제공**
